@@ -6,8 +6,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        banner: "#c5a78b", // also for below tags (keep the contrast ratio in mind)
-        primary: "#121212", // Dont change this one
+        banner: "#f0edeb", // also for below tags (keep the contrast ratio in mind)
+        primary: "#000000", // Dont change this one
       },
       fontFamily: {
         jost: ["Jost", "sans-serif"],
