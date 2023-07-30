@@ -31,32 +31,32 @@ function MyApp({ Component, pageProps }: AppProps) {
                 `}
       </Script>
       <NextSeo
-        title="Arunava | Web Developer"
-        titleTemplate="Arunava | Web Developer"
-        defaultTitle="Arunava | Web Developer"
-        description="Hey! I'm Arunava, A Web Developer, Blogger and a Student!"
+        title="Aditya | Blogger"
+        titleTemplate="Aditya | Blogger"
+        defaultTitle="Aditya | Blogger"
+        description="Hey! I'm Adutyq, A Weeb, Blogger and a Student!"
         openGraph={{
           url: "https://www.arunava.tech/",
-          title: "Arunava Ghosh | AG",
+          title: "Aditya tiwari | MS",
           description:
-            "Hey! I'm Arunava, A Web Developer, Blogger and a Student!",
+            "Hey! I'm Adityw, A Weeb, Blogger and a Student!",
           images: [
             {
-              url: "https://arunava.tech/static/images/socialbg.png",
-              alt: "Arunava | Web Developer",
+              url: "-",
+              alt: "Aditya | Blogger",
             },
           ],
         }}
         twitter={{
-          handle: "@ag_arunava",
-          site: "@ag_arunava",
+          handle: "@notstoicc",
+          site: "@notstoicc",
           cardType: "summary_large_image",
         }}
         additionalMetaTags={[
           {
             property: "keywords",
             content:
-              "Frontend Developer, Arunava, Arunava Tech, arunavatech, Web Developer, web development, web developer, blogger, tech enthusiast, open source",
+              "Notstoicc - literally Batman played by ryan gossling(me)",
           },
         ]}
       />
