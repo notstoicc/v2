@@ -9,7 +9,7 @@ const bio = "I have no enemies | nirvairah"
 const twitter = "https://twitter.com/mangaphilous";
 const instagram = "https://instagram.com/mangaphilous";
 const spotify = "https://open.spotify.com/user/317qeapt42gcgh5c4nm5o4zsaerq?si=0iNxYgQTTXmnKCxVX4gQOw";
-const telegram = "https://telegram.me/notstoicc";
+const telegram = "https://t.me/notstoicc";
 const mail = "mailto:aditya80.tiwari@gmail.com";
 const discord = "https://discord.com/user/840214353646845974";
 const discordTag = "/dev/notstoicc#2806";
