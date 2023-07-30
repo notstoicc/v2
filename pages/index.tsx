@@ -2,21 +2,17 @@ import { NowPlaying } from "../components";
 import Image from "next/image";
 import Banners from "../components/Banner";
 
-const name = "Arunava Ghosh";
-const belowLink = "hi.arunava.tech 👋🏻"
-const bio = "frontend & design | nextjs, typescript"
+const name = "Aditya Tiwari";
+const belowLink = "@notstoicc"
+const bio = "I have no enemies | nirvairah"
 
-const twitter = "https://twitter.com/agcodess";
-const instagram = "https://instagram.com/agcodess";
-const github = "https://github.com/its-ag";
-const lichess = "https://arunava.tech/chess";
-const spotify = "https://arunava.tech/spotify";
-const lastfm = "https://www.last.fm/user/arunava_";
-const telegram = "https://telegram.me/agcodes";
-const BuyMeACoffee = "https://www.buymeacoffee.com/arunava";
-const mail = "mailto:itsag0024@gmail.com";
-const discord = "https://discord.com/user/968448572641124352";
-const discordTag = "/dev/ag#1288";
+const twitter = "https://twitter.com/mangaphilous";
+const instagram = "https://instagram.com/mangaphilous";
+const spotify = "https://open.spotify.com/user/317qeapt42gcgh5c4nm5o4zsaerq?si=0iNxYgQTTXmnKCxVX4gQOw";
+const telegram = "https://telegram.me/notstoicc";
+const mail = "mailto:aditya80.tiwari@gmail.com";
+const discord = "https://discord.com/user/840214353646845974";
+const discordTag = "/dev/notstoicc#2806";
 
 function myFunction() {
   var x = document.getElementById("snackbar");
@@ -378,13 +374,13 @@ export default function Home() {
                                       title="My Portfolio"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      My Portfolio
+                                      Nothing here rn
                                     </span>
                                     <span
-                                      title="https://arunava.tech"
+                                      title="https://blank.page"
                                       className="xs:w-[220px] mt-1 w-[175px] truncate text-ellipsis whitespace-nowrap text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                     >
-                                      arunava.tech
+                                      Will add something later
                                     </span>
                                   </div>
                                 </div>
