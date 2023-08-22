@@ -6,13 +6,13 @@ const name = "Aditya Tiwari";
 const belowLink = "@notstoicc"
 const bio = "Bhagavad Gita 11.55 | nirvairah"
 
-const twitter = "https://twitter.com/mangaphilous";
-const instagram = "https://instagram.com/mangaphilous";
+const twitter = "https://twitter.com/notstoicc";
+const instagram = "https://instagram.com/adityxtiwari";
 const spotify = "https://open.spotify.com/user/317qeapt42gcgh5c4nm5o4zsaerq?si=0iNxYgQTTXmnKCxVX4gQOw";
 const telegram = "https://t.me/notstoicc";
-const mail = "https://mail.google.com/mail/u/aditya80.tiwari@gmail.com/";
+const mail = "mailto:aditya80.tiwari@gmail.com";
 const discord = "https://discord.com/user/840214353646845974";
-const discordTag = "/dev/notstoicc#2806";
+const discordTag = "/user/notstoicc#2806";
 
 function myFunction() {
   var x = document.getElementById("snackbar");
