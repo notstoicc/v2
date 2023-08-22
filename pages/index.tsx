@@ -9,7 +9,7 @@ const bio = "Bhagavad Gita 11.55 | nirvairah"
 const twitter = "https://twitter.com/Aditya80Tiwari?t=jg3tglMOmizj6mcsyP3ESg&s=09";
 const instagram = "https://instagram.com/adityxtiwari";
 const spotify = "https://open.spotify.com/user/317qeapt42gcgh5c4nm5o4zsaerq?si=0iNxYgQTTXmnKCxVX4gQOw";
-const telegram = "https://t.me/notstoicc";
+const telegram = "http://t.me/notstoicc";
 const mail = "mailto:aditya80.tiwari@gmail.com";
 const discord = "https://discord.com/user/840214353646845974";
 const discordTag = "/user/notstoicc#2806";
