@@ -72,6 +72,11 @@ export default function Home() {
                     </p>
                     <div className="mt-3 flex flex-col">
                       <p className="inline-block whitespace-pre-wrap text-center text-sm text-gray-500 dark:text-gray-400">
+                        <a
+                        // rel="noopener noreferrer nofollow"
+                        // target="_blank"
+                        href="https://www.holy-bhagavad-gita.org/chapter/11/verse/55"
+                      >
                     {bio}
                       </p>
                     </div>
