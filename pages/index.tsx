@@ -65,7 +65,7 @@ export default function Home() {
                       <a
                         // rel="noopener noreferrer nofollow"
                         // target="_blank"
-                        href=""
+                        href="https://instagram.com/notstoicc?igshid=NGExMmI2YTkyZg=="
                       >
                       {belowLink}
                       </a>
