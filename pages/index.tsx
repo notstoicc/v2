@@ -6,7 +6,7 @@ const name = "Aditya Tiwari";
 const belowLink = "@notstoicc"
 const bio = "Bhagavad Gita 11.55 | nirvairah"
 
-const twitter = "https://twitter.com/notstoicc";
+const twitter = "https://twitter.com/Aditya80Tiwari?t=jg3tglMOmizj6mcsyP3ESg&s=09";
 const instagram = "https://instagram.com/adityxtiwari";
 const spotify = "https://open.spotify.com/user/317qeapt42gcgh5c4nm5o4zsaerq?si=0iNxYgQTTXmnKCxVX4gQOw";
 const telegram = "https://t.me/notstoicc";
