@@ -4,7 +4,7 @@ import Banners from "../components/Banner";
 
 const name = "Aditya Tiwari";
 const belowLink = "@notstoicc"
-const bio = "Bhagvat Geeta 11.55 | nirvairah"
+const bio = "Bhagavad Gita 11.55 | nirvairah"
 
 const twitter = "https://twitter.com/mangaphilous";
 const instagram = "https://instagram.com/mangaphilous";
