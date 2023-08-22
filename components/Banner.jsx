@@ -12,7 +12,7 @@ function Banner({ icon, label }) {
   function Banners() {
     return (
       <div className="mx-auto flex flex-wrap items-center justify-center gap-1">
-      <a href="https://aniwatch.to/home"  <Banner icon="⚪" label="Anime" /> </a>
+        <Banner icon="⚪" label="Anime" />
         <Banner icon="⚪" label="Manga" />
         <Banner icon="⚪" label="Movies" />
         <Banner icon="⚪" label="Music" />
