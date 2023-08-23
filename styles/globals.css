@@ -36,11 +36,11 @@ body::-webkit-scrollbar {
 
 /* Put banner here, if you dont like the solid color */
 
-/* .bg-banner {
+ .bg-banner {
   background-size: cover;
   background-position: center;
-  background-image: url(https://data.whicdn.com/images/197122776/original.gif);
-} */
+  background-image: url(https://cdn.discordapp.com/attachments/1121818007941947496/1143851559692816384/Tumblr_l_949705013136486.jpg);
+} 
 
 #snackbar {
   visibility: hidden;
