@@ -288,20 +288,20 @@ export default function Home() {
                               <span className="relative mt-2 flex w-full flex-row items-center justify-between rounded bg-zinc-900 text-sm leading-tight">
                                 <div className="flex items-center justify-center">
                                   <div className="flex h-16 w-16 items-center justify-center rounded bg-zinc-800 bg-opacity-50">
-                                    <span className=""> - </span>
+                                    <span className=""> 02) </span>
                                   </div>
                                   <div className="mx-4 flex flex-col">
                                     <span
                                       title="Nothing"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      -
+                                      Nothing here
                                     </span>
                                     <span
                                       title=""
                                       className="xs:w-[220px] mt-1 w-[175px] truncate text-ellipsis whitespace-nowrap text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                     >
-                                      -
+                                      Will add something later..
                                     </span>
                                   </div>
                                 </div>
