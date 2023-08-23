@@ -275,7 +275,7 @@ export default function Home() {
                         </div>
 
 
-                        <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
+                          <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                           <a
                             href=""
                             target="_blank"
@@ -317,9 +317,9 @@ export default function Home() {
                               </span>   
                             </div>
                           </a>
-                        </div>
+                        </div> 
 
-
+{/*
 <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                           <a
                             href=""
@@ -716,7 +716,7 @@ export default function Home() {
                           </a>
                         </div>
 
-
+*/}
                         
                       </div>
                     </div>
