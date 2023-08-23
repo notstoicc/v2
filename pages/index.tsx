@@ -242,7 +242,7 @@ export default function Home() {
                                 <div className="flex items-center justify-center">
                                   <div className="flex h-16 w-16 items-center justify-center rounded bg-zinc-800 bg-opacity-50">
                                     <span className=""> 
-                                      <img src="https://cdn.discordapp.com/attachments/1140344585558700163/1143880717655343164/notstoicc-07-08-2023-0001.webp" alt="myself" width="115" height="115">
+                                      01)
                                     </span>
                                   </div>
                                   <div className="mx-4 flex flex-col">
