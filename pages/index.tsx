@@ -267,8 +267,21 @@ export default function Home() {
                                     <path d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"></path>
                                   </svg>
                                 </span>
-                              </span>
-                    <span className="relative mt-2 flex w-full flex-row items-center justify-between rounded bg-zinc-900 text-sm leading-tight">
+                              </span>   
+                            </div>
+                          </a>
+                        </div>
+
+
+                        <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
+                          <a
+                            href="https://blank.page/"
+                            target="_blank"
+                            rel="noopener noreferrer nofollow"
+                            className="w-full transition-all sm:hover:opacity-70"
+                          >
+                            <div>
+                              <span className="relative mt-2 flex w-full flex-row items-center justify-between rounded bg-zinc-900 text-sm leading-tight">
                                 <div className="flex items-center justify-center">
                                   <div className="flex h-16 w-16 items-center justify-center rounded bg-zinc-800 bg-opacity-50">
                                     <span className=""> ✍🏽 </span>
@@ -299,10 +312,16 @@ export default function Home() {
                                     <path d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"></path>
                                   </svg>
                                 </span>
-                              </span>
+                              </span>   
                             </div>
                           </a>
                         </div>
+
+
+
+
+
+                        
                       </div>
                     </div>
                     <div className="mb-4 flex justify-center">
