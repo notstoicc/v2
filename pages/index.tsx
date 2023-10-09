@@ -368,7 +368,7 @@ export default function Home() {
 
                         <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                           <a
-                            href=""
+                            href="https://www.photopea.com/"
                             target="_blank"
                             rel="noopener noreferrer nofollow"
                             className="w-full transition-all sm:hover:opacity-70"
@@ -384,13 +384,13 @@ export default function Home() {
                                       title="Nothing"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      Nothing Here
+                                      Portable Photoshop
                                     </span>
                                     <span
                                       title=""
                                       className="xs:w-[220px] mt-1 w-[175px] truncate text-ellipsis whitespace-nowrap text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                     >
-                                      will add something later..
+                                      Hosted on web
                                     </span>
                                   </div>
                                 </div>
