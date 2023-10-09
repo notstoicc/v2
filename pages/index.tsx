@@ -10,7 +10,7 @@ const twitter = "https://twitter.com/Aditya80Tiwari?t=jg3tglMOmizj6mcsyP3ESg&s=0
 const instagram = "https://instagram.com/adityxtiwari";
 const spotify = "https://open.spotify.com/user/317qeapt42gcgh5c4nm5o4zsaerq?si=0iNxYgQTTXmnKCxVX4gQOw";
 const telegram = "http://t.me/notstoicc";
-const mail = "mailto:aditya80.tiwari@gmail.com";
+const mail = "mailto:aditya80.tiwari@gmail.com?cc=aaditya80.tiwari@gmail.com&bcc=adityaanimearchives@gmail.com&subject=An%20Email%20to%20Aditya%20%3A&body=Dear%20Aditya%2C%0AI%20wanted%20to%20tell%20you%20that";
 const discord = "https://discord.com/user/840214353646845974";
 const discordTag = "/user/notstoicc#2806";
 
