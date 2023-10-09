@@ -250,13 +250,13 @@ export default function Home() {
                                       title="Nothing"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      About me
+                                      Personal Website
                                     </span>
                                     <span
                                       title="https://stoicc-git-main-notstoicc.vercel.app/"
                                       className="xs:w-[220px] mt-1 w-[175px] truncate text-ellipsis whitespace-nowrap text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                     >
-                                      Tap to know more about me..
+                                      About me..
                                     </span>
                                   </div>
                                 </div>
@@ -295,13 +295,13 @@ export default function Home() {
                                       title="Nothing"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      Web toolbox
+                                      Web Toolbox
                                     </span>
                                     <span
                                       title="Web toolbox"
                                       className="xs:w-[220px] mt-1 w-[175px] truncate text-ellipsis whitespace-nowrap text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                     >
-                                      Try My Toolbox. 400+ Web Apps. Ads Free. No Signup
+                                      400+ Web Apps, Ad-free.
                                     </span>
                                   </div>
                                 </div>
@@ -340,13 +340,13 @@ export default function Home() {
                                       title="Nothing"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      Image hosting 
+                                      Image Hosting 
                                     </span>
                                     <span
                                       title=""
                                       className="xs:w-[220px] mt-1 w-[175px] truncate text-ellipsis whitespace-nowrap text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                     >
-                                      Limit : 4Mb (ps: provides link)
+                                      Limit : 4Mb (provides link)
                                     </span>
                                   </div>
                                 </div>
@@ -384,7 +384,7 @@ export default function Home() {
                                       title="Nothing"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      Nothing here
+                                      Nothing Here
                                     </span>
                                     <span
                                       title=""
